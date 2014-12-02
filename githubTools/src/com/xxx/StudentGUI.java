@@ -36,6 +36,7 @@ public class StudentGUI {
 	}
 	
 	public static void main(String[] args) {
+		System.out.println("made by xxx");
 		new StudentGUI().show();
 	}
 }
